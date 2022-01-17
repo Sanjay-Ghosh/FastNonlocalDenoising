@@ -2,7 +2,7 @@
 
 Main Reference:
 =============
-S. Ghosh and K. N. Chaudhury, “Fast separable non-local means,” Journal of Electronic Imaging, vol. 25,no. 2, pp. 023026: 1- 14, 2016
+S. Ghosh and K. N. Chaudhury, “Fast separable non-local means,” Journal of Electronic Imaging, vol. 25,no. 2, pp. 023026: 1- 14, 2016.
 
 
 
