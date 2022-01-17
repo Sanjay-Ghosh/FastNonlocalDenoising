@@ -14,4 +14,4 @@ A) S. Ghosh and K. N. Chaudhury, “Fast separable non-local means,” Journal o
 
 B) S. Ghosh and K. N. Chaudhury, “Artifact reduction for separable nonlocal means,” Journal of Electronic Imaging, vol. 26, no. 6, pp. 063012: 1-6, 2017.
 
-For comments/queries/suggestion, please email at sanjay.ee.iisc@gmail.com
+Contact: sanjay.ee.iisc@gmail.com
